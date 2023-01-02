@@ -1,4 +1,7 @@
 #  Computer Graphics
+### All these practicals were done to understand the core concepts of the subject, the practicals done and the theory covered are mentioned below.   
+
+
 ## Practical: 
 
 1. Write a program to implement Bresenham's line drawing algorithm.
